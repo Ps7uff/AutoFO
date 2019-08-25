@@ -14,7 +14,6 @@
 #include <algorithm>
 #include "capture.h"
 #include "mouse.h"
-#include "training.h"
 # include <cstdlib>
 # include <iostream>
 # include <fstream>
